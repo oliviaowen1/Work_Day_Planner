@@ -35,7 +35,7 @@ This application uses local storage to save what the user types into the input f
 
 <br>
 
-![https://raw.githubusercontent.com/oliviaowen1/Work_Day_Planner/main/Assets/Screenshot%202021-01-17%20at%2015.31.26.png](https://raw.githubusercontent.com/oliviaowen1/Work_Day_Planner/main/Assets/Screenshot%202021-01-17%20at%2015.30.00.png)
+![https://raw.githubusercontent.com/oliviaowen1/Work_Day_Planner/main/Assets/Screenshot%202021-01-17%20at%2015.31.26.png](https://raw.githubusercontent.com/oliviaowen1/Work_Day_Planner/main/Assets/Screenshot%202021-01-17%20at%2015.31.26.png)
 
 ## Improvements
 
